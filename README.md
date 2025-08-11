@@ -35,12 +35,13 @@ This challenge is more than just coding — it’s about:
 
 ## 📅 Progress Log
 
-| Day | API Name         | Description                                                      | Status         |
-| --- | ---------------- | ---------------------------------------------------------------- | -------------- |
-| 1   | Hello World API  | Basic GET endpoint returning "Hello World"                       | ✅ Completed   |
-| 2   | Greeting API     | Returns personalized greetings using query params                | ✅ Completed   |
-| 3   | CryptoPrices API | integrate CoinGecko API to fetch and display cryptocurrency data | ✅ Completed   |
-| 4   | ...              | ...                                                              | ⏳ In Progress |
+| Day | API Name         | Description                                                                                     | Status         |
+| --- | ---------------- | ----------------------------------------------------------------------------------------------- | -------------- |
+| 1   | Hello World API  | Basic GET endpoint returning "Hello World"                                                      | ✅ Completed   |
+| 2   | Greeting API     | Returns personalized greetings using query params                                               | ✅ Completed   |
+| 3   | CryptoPrices API | integrate CoinGecko API to fetch and display cryptocurrency data                                | ✅ Completed   |
+| 4   | News API         | Retrieves the latest news headlines from various sources and categories worldwide in real time. | ✅ Completed   |
+| 5   | ...              | ...                                                                                             | ⏳ In Progress |
 
 ---
 
