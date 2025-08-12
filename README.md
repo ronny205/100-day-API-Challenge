@@ -41,7 +41,8 @@ This challenge is more than just coding — it’s about:
 | 2   | Greeting API     | Returns personalized greetings using query params                                               | ✅ Completed   |
 | 3   | CryptoPrices API | integrate CoinGecko API to fetch and display cryptocurrency data                                | ✅ Completed   |
 | 4   | News API         | Retrieves the latest news headlines from various sources and categories worldwide in real time. | ✅ Completed   |
-| 5   | ...              | ...                                                                                             | ⏳ In Progress |
+| 5   | CatFacts API     | Get random cat facts from Cat Facts API                                                         | ✅ Completed   |
+| 6   | ...              | ...                                                                                             | ⏳ In Progress |
 
 ---
 
