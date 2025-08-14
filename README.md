@@ -43,7 +43,8 @@ This challenge is more than just coding — it’s about:
 | 4   | News API            | Retrieves the latest news headlines from various sources and categories worldwide in real time. | ✅ Completed   |
 | 5   | CatFacts API        | Get random cat facts from Cat Facts API                                                         | ✅ Completed   |
 | 6   | RandomDog-Image API | Retrieve random dog images from Dog CEO API                                                     | ✅ Completed   |
-| 7   | ...                 | ...                                                                                             | ⏳ In Progress |
+| 7   | BookDetails API     | basic controller to fetch book details from Google Books API                                    | ✅ Completed   |
+| 8   | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
