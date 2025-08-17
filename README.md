@@ -45,7 +45,8 @@ This challenge is more than just coding — it’s about:
 | 6   | RandomDog-Image API | Retrieve random dog images from Dog CEO API                                                     | ✅ Completed   |
 | 7   | BookDetails API     | basic controller to fetch book details from Google Books API                                    | ✅ Completed   |
 | 8   | MovieDetails API    | Get movie details from OMDb AP                                                                  | ✅ Completed   |
-| 9   | ...                 | ....                                                                                            | ⏳ In Progress |
+| 9   | NasaPicOfDay API    | Retrieve NASA Astronomy Picture of the Day                                                      | ✅ Completed   |
+| 10  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
