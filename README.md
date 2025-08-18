@@ -46,7 +46,8 @@ This challenge is more than just coding — it’s about:
 | 7   | BookDetails API     | basic controller to fetch book details from Google Books API                                    | ✅ Completed   |
 | 8   | MovieDetails API    | Get movie details from OMDb AP                                                                  | ✅ Completed   |
 | 9   | NasaPicOfDay API    | Retrieve NASA Astronomy Picture of the Day                                                      | ✅ Completed   |
-| 10  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 10  | Covid19-stats API   | Fetch COVID-19 stats API with global and country-specific endpoints                             | ✅ Completed   |
+| 11  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
