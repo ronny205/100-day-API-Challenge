@@ -47,7 +47,8 @@ This challenge is more than just coding — it’s about:
 | 8   | MovieDetails API    | Get movie details from OMDb AP                                                                  | ✅ Completed   |
 | 9   | NasaPicOfDay API    | Retrieve NASA Astronomy Picture of the Day                                                      | ✅ Completed   |
 | 10  | Covid19-stats API   | Fetch COVID-19 stats API with global and country-specific endpoints                             | ✅ Completed   |
-| 11  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 11  | Quotes API          | Get random quotes from Quotable API                                                             | ✅ Completed   |
+| 12  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
