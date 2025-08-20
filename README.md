@@ -48,7 +48,8 @@ This challenge is more than just coding — it’s about:
 | 9   | NasaPicOfDay API    | Retrieve NASA Astronomy Picture of the Day                                                      | ✅ Completed   |
 | 10  | Covid19-stats API   | Fetch COVID-19 stats API with global and country-specific endpoints                             | ✅ Completed   |
 | 11  | Quotes API          | Get random quotes from Quotable API                                                             | ✅ Completed   |
-| 12  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 12  | Sports-Score API    | Retrieve sports scores from TheSportsDB API                                                     | ✅ Completed   |
+| 13  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
