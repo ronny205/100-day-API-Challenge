@@ -49,7 +49,8 @@ This challenge is more than just coding — it’s about:
 | 10  | Covid19-stats API   | Fetch COVID-19 stats API with global and country-specific endpoints                             | ✅ Completed   |
 | 11  | Quotes API          | Get random quotes from Quotable API                                                             | ✅ Completed   |
 | 12  | Sports-Score API    | Retrieve sports scores from TheSportsDB API                                                     | ✅ Completed   |
-| 13  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 13  | Pokemon API         | Fetch Pokémon details from PokéAPI                                                              | ✅ Completed   |
+| 14  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
