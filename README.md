@@ -50,7 +50,8 @@ This challenge is more than just coding — it’s about:
 | 11  | Quotes API          | Get random quotes from Quotable API                                                             | ✅ Completed   |
 | 12  | Sports-Score API    | Retrieve sports scores from TheSportsDB API                                                     | ✅ Completed   |
 | 13  | Pokemon API         | Fetch Pokémon details from PokéAPI                                                              | ✅ Completed   |
-| 14  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 14  | Trivia API          | Get random trivia questions from Open Trivia DB                                                 | ✅ Completed   |
+| 15  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
