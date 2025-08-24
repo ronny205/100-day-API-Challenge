@@ -52,7 +52,8 @@ This challenge is more than just coding — it’s about:
 | 13  | Pokemon API         | Fetch Pokémon details from PokéAPI                                                              | ✅ Completed   |
 | 14  | Trivia API          | Get random trivia questions from Open Trivia DB                                                 | ✅ Completed   |
 | 15  | Recipe API          | Retrieve recipe details from TheMealDB API                                                      | ✅ Completed   |
-| 16  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 16  | Cocktail API        | Fetch drink recipes from TheCocktailDB API                                                      | ✅ Completed   |
+| 17  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
