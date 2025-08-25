@@ -53,7 +53,8 @@ This challenge is more than just coding — it’s about:
 | 14  | Trivia API          | Get random trivia questions from Open Trivia DB                                                 | ✅ Completed   |
 | 15  | Recipe API          | Retrieve recipe details from TheMealDB API                                                      | ✅ Completed   |
 | 16  | Cocktail API        | Fetch drink recipes from TheCocktailDB API                                                      | ✅ Completed   |
-| 17  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 17  | SpaceLaunch API     | Get space launch data from Launch Library API                                                   | ✅ Completed   |
+| 18  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
