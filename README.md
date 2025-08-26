@@ -54,7 +54,8 @@ This challenge is more than just coding — it’s about:
 | 15  | Recipe API          | Retrieve recipe details from TheMealDB API                                                      | ✅ Completed   |
 | 16  | Cocktail API        | Fetch drink recipes from TheCocktailDB API                                                      | ✅ Completed   |
 | 17  | SpaceLaunch API     | Get space launch data from Launch Library API                                                   | ✅ Completed   |
-| 18  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 18  | GithubUser API      | Retrieve GitHub user data                                                                       | ✅ Completed   |
+| 19  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
