@@ -56,7 +56,9 @@ This challenge is more than just coding — it’s about:
 | 17  | SpaceLaunch API     | Get space launch data from Launch Library API                                                   | ✅ Completed   |
 | 18  | GithubUser API      | Retrieve GitHub user data                                                                       | ✅ Completed   |
 | 19  | StackOverflow API   | Get Stack Overflow questions                                                                    | ✅ Completed   |
-| 20  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 20  | Dictionary API      | Retrieve dictionary meanings from Free Dictionary API                                           | ✅ Completed   |
+| 21  | ...                 | ...                                                                                             | ⏳ In Progress |
+
 
 ---
 
