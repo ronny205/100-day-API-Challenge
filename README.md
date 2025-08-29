@@ -57,8 +57,8 @@ This challenge is more than just coding — it’s about:
 | 18  | GithubUser API      | Retrieve GitHub user data                                                                       | ✅ Completed   |
 | 19  | StackOverflow API   | Get Stack Overflow questions                                                                    | ✅ Completed   |
 | 20  | Dictionary API      | Retrieve dictionary meanings from Free Dictionary API                                           | ✅ Completed   |
-| 21  | ...                 | ...                                                                                             | ⏳ In Progress |
-
+| 21  | Synonyms API        | Fetch synonyms from Datamuse API                                                                | ✅ Completed   |
+| 22  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
