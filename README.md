@@ -58,7 +58,8 @@ This challenge is more than just coding — it’s about:
 | 19  | StackOverflow API   | Get Stack Overflow questions                                                                    | ✅ Completed   |
 | 20  | Dictionary API      | Retrieve dictionary meanings from Free Dictionary API                                           | ✅ Completed   |
 | 21  | Synonyms API        | Fetch synonyms from Datamuse API                                                                | ✅ Completed   |
-| 22  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 22  | RandomUserInfo API  | Added Random User API integration                                                               | ✅ Completed   |
+| 23  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
