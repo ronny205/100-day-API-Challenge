@@ -59,7 +59,8 @@ This challenge is more than just coding — it’s about:
 | 20  | Dictionary API      | Retrieve dictionary meanings from Free Dictionary API                                           | ✅ Completed   |
 | 21  | Synonyms API        | Fetch synonyms from Datamuse API                                                                | ✅ Completed   |
 | 22  | RandomUserInfo API  | Added Random User API integration                                                               | ✅ Completed   |
-| 23  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 23  | IpInfo API          | Retrieve IP location details from ipinfo.io                                                     | ✅ Completed   |
+| 24  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
