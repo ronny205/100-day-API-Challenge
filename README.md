@@ -60,7 +60,8 @@ This challenge is more than just coding — it’s about:
 | 21  | Synonyms API        | Fetch synonyms from Datamuse API                                                                | ✅ Completed   |
 | 22  | RandomUserInfo API  | Added Random User API integration                                                               | ✅ Completed   |
 | 23  | IpInfo API          | Retrieve IP location details from ipinfo.io                                                     | ✅ Completed   |
-| 24  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 24  | ExchangeRate API    | Fetch exchange rates from ExchangeRate API                                                      | ✅ Completed   |
+| 25  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
