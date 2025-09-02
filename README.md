@@ -61,7 +61,9 @@ This challenge is more than just coding — it’s about:
 | 22  | RandomUserInfo API  | Added Random User API integration                                                               | ✅ Completed   |
 | 23  | IpInfo API          | Retrieve IP location details from ipinfo.io                                                     | ✅ Completed   |
 | 24  | ExchangeRate API    | Fetch exchange rates from ExchangeRate API                                                      | ✅ Completed   |
-| 25  | ...                 | ...                                                                                             | ⏳ In Progress |
+| 25  | RandomActivity API  | Get random activities from Bored API                                                            | ✅ Completed   |
+| 26  | ...                 | ...                                                                                             | ⏳ In Progress |
+
 
 ---
 
