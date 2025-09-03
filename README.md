@@ -62,8 +62,8 @@ This challenge is more than just coding — it’s about:
 | 23  | IpInfo API          | Retrieve IP location details from ipinfo.io                                                     | ✅ Completed   |
 | 24  | ExchangeRate API    | Fetch exchange rates from ExchangeRate API                                                      | ✅ Completed   |
 | 25  | RandomActivity API  | Get random activities from Bored API                                                            | ✅ Completed   |
-| 26  | ...                 | ...                                                                                             | ⏳ In Progress |
-
+| 26  | AgePrediction API   | Retrieve age prediction from Agify API                                                          | ✅ Completed   |
+| 27  | ...                 | ...                                                                                             | ⏳ In Progress |
 
 ---
 
