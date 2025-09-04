@@ -35,35 +35,36 @@ This challenge is more than just coding — it’s about:
 
 ## 📅 Progress Log
 
-| Day | API Name            | Description                                                                                     | Status         |
-| --- | ------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
-| 1   | Hello World API     | Basic GET endpoint returning "Hello World"                                                      | ✅ Completed   |
-| 2   | Greeting API        | Returns personalized greetings using query params                                               | ✅ Completed   |
-| 3   | CryptoPrices API    | integrate CoinGecko API to fetch and display cryptocurrency data                                | ✅ Completed   |
-| 4   | News API            | Retrieves the latest news headlines from various sources and categories worldwide in real time. | ✅ Completed   |
-| 5   | CatFacts API        | Get random cat facts from Cat Facts API                                                         | ✅ Completed   |
-| 6   | RandomDog-Image API | Retrieve random dog images from Dog CEO API                                                     | ✅ Completed   |
-| 7   | BookDetails API     | basic controller to fetch book details from Google Books API                                    | ✅ Completed   |
-| 8   | MovieDetails API    | Get movie details from OMDb AP                                                                  | ✅ Completed   |
-| 9   | NasaPicOfDay API    | Retrieve NASA Astronomy Picture of the Day                                                      | ✅ Completed   |
-| 10  | Covid19-stats API   | Fetch COVID-19 stats API with global and country-specific endpoints                             | ✅ Completed   |
-| 11  | Quotes API          | Get random quotes from Quotable API                                                             | ✅ Completed   |
-| 12  | Sports-Score API    | Retrieve sports scores from TheSportsDB API                                                     | ✅ Completed   |
-| 13  | Pokemon API         | Fetch Pokémon details from PokéAPI                                                              | ✅ Completed   |
-| 14  | Trivia API          | Get random trivia questions from Open Trivia DB                                                 | ✅ Completed   |
-| 15  | Recipe API          | Retrieve recipe details from TheMealDB API                                                      | ✅ Completed   |
-| 16  | Cocktail API        | Fetch drink recipes from TheCocktailDB API                                                      | ✅ Completed   |
-| 17  | SpaceLaunch API     | Get space launch data from Launch Library API                                                   | ✅ Completed   |
-| 18  | GithubUser API      | Retrieve GitHub user data                                                                       | ✅ Completed   |
-| 19  | StackOverflow API   | Get Stack Overflow questions                                                                    | ✅ Completed   |
-| 20  | Dictionary API      | Retrieve dictionary meanings from Free Dictionary API                                           | ✅ Completed   |
-| 21  | Synonyms API        | Fetch synonyms from Datamuse API                                                                | ✅ Completed   |
-| 22  | RandomUserInfo API  | Added Random User API integration                                                               | ✅ Completed   |
-| 23  | IpInfo API          | Retrieve IP location details from ipinfo.io                                                     | ✅ Completed   |
-| 24  | ExchangeRate API    | Fetch exchange rates from ExchangeRate API                                                      | ✅ Completed   |
-| 25  | RandomActivity API  | Get random activities from Bored API                                                            | ✅ Completed   |
-| 26  | AgePrediction API   | Retrieve age prediction from Agify API                                                          | ✅ Completed   |
-| 27  | ...                 | ...                                                                                             | ⏳ In Progress |
+| Day | API Name                  | Description                                                                                     | Status         |
+| --- | ------------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
+| 1   | Hello World API           | Basic GET endpoint returning "Hello World"                                                      | ✅ Completed   |
+| 2   | Greeting API              | Returns personalized greetings using query params                                               | ✅ Completed   |
+| 3   | CryptoPrices API          | integrate CoinGecko API to fetch and display cryptocurrency data                                | ✅ Completed   |
+| 4   | News API                  | Retrieves the latest news headlines from various sources and categories worldwide in real time. | ✅ Completed   |
+| 5   | CatFacts API              | Get random cat facts from Cat Facts API                                                         | ✅ Completed   |
+| 6   | RandomDog-Image API       | Retrieve random dog images from Dog CEO API                                                     | ✅ Completed   |
+| 7   | BookDetails API           | basic controller to fetch book details from Google Books API                                    | ✅ Completed   |
+| 8   | MovieDetails API          | Get movie details from OMDb AP                                                                  | ✅ Completed   |
+| 9   | NasaPicOfDay API          | Retrieve NASA Astronomy Picture of the Day                                                      | ✅ Completed   |
+| 10  | Covid19-stats API         | Fetch COVID-19 stats API with global and country-specific endpoints                             | ✅ Completed   |
+| 11  | Quotes API                | Get random quotes from Quotable API                                                             | ✅ Completed   |
+| 12  | Sports-Score API          | Retrieve sports scores from TheSportsDB API                                                     | ✅ Completed   |
+| 13  | Pokemon API               | Fetch Pokémon details from PokéAPI                                                              | ✅ Completed   |
+| 14  | Trivia API                | Get random trivia questions from Open Trivia DB                                                 | ✅ Completed   |
+| 15  | Recipe API                | Retrieve recipe details from TheMealDB API                                                      | ✅ Completed   |
+| 16  | Cocktail API              | Fetch drink recipes from TheCocktailDB API                                                      | ✅ Completed   |
+| 17  | SpaceLaunch API           | Get space launch data from Launch Library API                                                   | ✅ Completed   |
+| 18  | GithubUser API            | Retrieve GitHub user data                                                                       | ✅ Completed   |
+| 19  | StackOverflow API         | Get Stack Overflow questions                                                                    | ✅ Completed   |
+| 20  | Dictionary API            | Retrieve dictionary meanings from Free Dictionary API                                           | ✅ Completed   |
+| 21  | Synonyms API              | Fetch synonyms from Datamuse API                                                                | ✅ Completed   |
+| 22  | RandomUserInfo API        | Added Random User API integration                                                               | ✅ Completed   |
+| 23  | IpInfo API                | Retrieve IP location details from ipinfo.io                                                     | ✅ Completed   |
+| 24  | ExchangeRate API          | Fetch exchange rates from ExchangeRate API                                                      | ✅ Completed   |
+| 25  | RandomActivity API        | Get random activities from Bored API                                                            | ✅ Completed   |
+| 26  | AgePrediction API         | Retrieve age prediction from Agify API                                                          | ✅ Completed   |
+| 27  | NationalityPrediction API | Get nationality prediction from Nationalize API                                                 | ✅ Completed   |
+| 28  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
