@@ -64,7 +64,8 @@ This challenge is more than just coding — it’s about:
 | 25  | RandomActivity API        | Get random activities from Bored API                                                            | ✅ Completed   |
 | 26  | AgePrediction API         | Retrieve age prediction from Agify API                                                          | ✅ Completed   |
 | 27  | NationalityPrediction API | Get nationality prediction from Nationalize API                                                 | ✅ Completed   |
-| 28  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 28  | TvShowDetails API         | Retrieve TV show details from TVMaze API                                                        | ✅ Completed   |
+| 29  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
