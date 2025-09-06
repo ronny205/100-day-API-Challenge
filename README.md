@@ -65,7 +65,8 @@ This challenge is more than just coding — it’s about:
 | 26  | AgePrediction API         | Retrieve age prediction from Agify API                                                          | ✅ Completed   |
 | 27  | NationalityPrediction API | Get nationality prediction from Nationalize API                                                 | ✅ Completed   |
 | 28  | TvShowDetails API         | Retrieve TV show details from TVMaze API                                                        | ✅ Completed   |
-| 29  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 29  | ArtistDetails API         | Fetch music artist details from Last.fm API                                                     | ✅ Completed   |
+| 30  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
