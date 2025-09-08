@@ -67,7 +67,8 @@ This challenge is more than just coding — it’s about:
 | 28  | TvShowDetails API         | Retrieve TV show details from TVMaze API                                                        | ✅ Completed   |
 | 29  | ArtistDetails API         | Fetch music artist details from Last.fm API                                                     | ✅ Completed   |
 | 30  | BibleVerse API            | Added Bible API integration to retrieve verses                                                  | ✅ Completed   |
-| 31  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 31  | Horoscope API             | Added Aztro API integration to fetch horoscope                                                  | ✅ Completed   |
+| 32  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
