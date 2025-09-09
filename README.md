@@ -68,7 +68,8 @@ This challenge is more than just coding — it’s about:
 | 29  | ArtistDetails API         | Fetch music artist details from Last.fm API                                                     | ✅ Completed   |
 | 30  | BibleVerse API            | Added Bible API integration to retrieve verses                                                  | ✅ Completed   |
 | 31  | Horoscope API             | Added Aztro API integration to fetch horoscope                                                  | ✅ Completed   |
-| 32  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 32  | Geolocation-Ip API        | Added IP-API integration to fetch IP geolocation                                                | ✅ Completed   |
+| 33  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
