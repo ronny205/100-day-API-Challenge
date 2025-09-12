@@ -71,7 +71,8 @@ This challenge is more than just coding — it’s about:
 | 32  | Geolocation-Ip API        | Added IP-API integration to fetch IP geolocation                                                | ✅ Completed   |
 | 33  | AviationStack API         | Integrated AviationStack API to retrieve aviation data                                          | ✅ Completed   |
 | 34  | Railway API               | Added RailwayAPI integration to fetch train details                                             | ✅ Completed   |
-| 35  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 35  | RandomMeme API            | Added Meme API integration to fetch random memes                                                | ✅ Completed   |
+| 36  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
