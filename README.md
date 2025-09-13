@@ -72,7 +72,8 @@ This challenge is more than just coding — it’s about:
 | 33  | AviationStack API         | Integrated AviationStack API to retrieve aviation data                                          | ✅ Completed   |
 | 34  | Railway API               | Added RailwayAPI integration to fetch train details                                             | ✅ Completed   |
 | 35  | RandomMeme API            | Added Meme API integration to fetch random memes                                                | ✅ Completed   |
-| 36  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 36  | Joke API                  | Added JokeAPI integration to retrieve joke categories                                           | ✅ Completed   |
+| 37  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
