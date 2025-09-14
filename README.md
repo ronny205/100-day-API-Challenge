@@ -73,7 +73,8 @@ This challenge is more than just coding — it’s about:
 | 34  | Railway API               | Added RailwayAPI integration to fetch train details                                             | ✅ Completed   |
 | 35  | RandomMeme API            | Added Meme API integration to fetch random memes                                                | ✅ Completed   |
 | 36  | Joke API                  | Added JokeAPI integration to retrieve joke categories                                           | ✅ Completed   |
-| 37  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 37  | Nutrition API             | Integrated Edamam API to fetch food nutrition details                                           | ✅ Completed   |
+| 38  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
