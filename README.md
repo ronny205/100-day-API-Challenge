@@ -74,7 +74,8 @@ This challenge is more than just coding — it’s about:
 | 35  | RandomMeme API            | Added Meme API integration to fetch random memes                                                | ✅ Completed   |
 | 36  | Joke API                  | Added JokeAPI integration to retrieve joke categories                                           | ✅ Completed   |
 | 37  | Nutrition API             | Integrated Edamam API to fetch food nutrition details                                           | ✅ Completed   |
-| 38  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 38  | AQI API                   | Get air quality index from AQICN API                                                            | ✅ Completed   |
+| 39  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
