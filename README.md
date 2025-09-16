@@ -75,7 +75,8 @@ This challenge is more than just coding — it’s about:
 | 36  | Joke API                  | Added JokeAPI integration to retrieve joke categories                                           | ✅ Completed   |
 | 37  | Nutrition API             | Integrated Edamam API to fetch food nutrition details                                           | ✅ Completed   |
 | 38  | AQI API                   | Get air quality index from AQICN API                                                            | ✅ Completed   |
-| 39  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 39  | Earthqake API             | Integrated USGS API to retrieve earthquake data                                                 | ✅ Completed   |
+| 40  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
