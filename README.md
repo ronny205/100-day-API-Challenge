@@ -76,7 +76,8 @@ This challenge is more than just coding — it’s about:
 | 37  | Nutrition API             | Integrated Edamam API to fetch food nutrition details                                           | ✅ Completed   |
 | 38  | AQI API                   | Get air quality index from AQICN API                                                            | ✅ Completed   |
 | 39  | Earthqake API             | Integrated USGS API to retrieve earthquake data                                                 | ✅ Completed   |
-| 40  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 40  | WorldTides API            | Integrated WorldTides API to fetch tides data                                                   | ✅ Completed   |
+| 41  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
