@@ -77,7 +77,8 @@ This challenge is more than just coding — it’s about:
 | 38  | AQI API                   | Get air quality index from AQICN API                                                            | ✅ Completed   |
 | 39  | Earthqake API             | Integrated USGS API to retrieve earthquake data                                                 | ✅ Completed   |
 | 40  | WorldTides API            | Integrated WorldTides API to fetch tides data                                                   | ✅ Completed   |
-| 41  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 41  | MarsRoverImages API       | Get NASA Mars Rover photos                                                                      | ✅ Completed   |
+| 42  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
