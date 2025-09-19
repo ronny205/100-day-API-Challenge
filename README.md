@@ -78,7 +78,8 @@ This challenge is more than just coding — it’s about:
 | 39  | Earthqake API             | Integrated USGS API to retrieve earthquake data                                                 | ✅ Completed   |
 | 40  | WorldTides API            | Integrated WorldTides API to fetch tides data                                                   | ✅ Completed   |
 | 41  | MarsRoverImages API       | Get NASA Mars Rover photos                                                                      | ✅ Completed   |
-| 42  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 42  | UniversityData API        | Retrieve university data from Hipolabs API                                                      | ✅ Completed   |
+| 43  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
