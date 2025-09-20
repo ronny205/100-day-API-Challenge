@@ -79,7 +79,8 @@ This challenge is more than just coding — it’s about:
 | 40  | WorldTides API            | Integrated WorldTides API to fetch tides data                                                   | ✅ Completed   |
 | 41  | MarsRoverImages API       | Get NASA Mars Rover photos                                                                      | ✅ Completed   |
 | 42  | UniversityData API        | Retrieve university data from Hipolabs API                                                      | ✅ Completed   |
-| 43  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 43  | Holiday API               | Fetch holiday details from Calendarific API                                                     | ✅ Completed   |
+| 44  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
