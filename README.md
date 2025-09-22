@@ -81,7 +81,8 @@ This challenge is more than just coding — it’s about:
 | 42  | UniversityData API        | Retrieve university data from Hipolabs API                                                      | ✅ Completed   |
 | 43  | Holiday API               | Fetch holiday details from Calendarific API                                                     | ✅ Completed   |
 | 44  | BlacklstedIpStatus API    | Get IP blacklist status from AbuseIPDB API                                                      | ✅ Completed   |
-| 45  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 45  | CarDetails API            | Retrieve car details from Vehicle API                                                           | ✅ Completed   |
+| 46  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
