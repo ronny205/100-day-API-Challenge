@@ -82,7 +82,8 @@ This challenge is more than just coding — it’s about:
 | 43  | Holiday API               | Fetch holiday details from Calendarific API                                                     | ✅ Completed   |
 | 44  | BlacklstedIpStatus API    | Get IP blacklist status from AbuseIPDB API                                                      | ✅ Completed   |
 | 45  | CarDetails API            | Retrieve car details from Vehicle API                                                           | ✅ Completed   |
-| 46  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 46  | Game API                  | Integrated RAWG API to fetch video game details                                                 | ✅ Completed   |
+| 47  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
