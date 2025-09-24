@@ -83,7 +83,8 @@ This challenge is more than just coding — it’s about:
 | 44  | BlacklstedIpStatus API    | Get IP blacklist status from AbuseIPDB API                                                      | ✅ Completed   |
 | 45  | CarDetails API            | Retrieve car details from Vehicle API                                                           | ✅ Completed   |
 | 46  | Game API                  | Integrated RAWG API to fetch video game details                                                 | ✅ Completed   |
-| 47  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 47  | Weather API               | Get space weather data from NOAA API                                                            | ✅ Completed   |
+| 48  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
