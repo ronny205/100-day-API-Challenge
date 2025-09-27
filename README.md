@@ -86,7 +86,8 @@ This challenge is more than just coding — it’s about:
 | 47  | Weather API               | Get space weather data from NOAA API                                                            | ✅ Completed   |
 | 48  | MovieQuotes API           | Retrieve movie quotes from Movie Quote API                                                      | ✅ Completed   |
 | 49  | CocktailIngredients API   | Fetch cocktail ingredients from Cocktail API                                                    | ✅ Completed   |
-| 50  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 50  | JobListing API            | Get job listings from Adzuna API                                                                | ✅ Completed   |
+| 51  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
