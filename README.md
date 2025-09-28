@@ -87,7 +87,8 @@ This challenge is more than just coding — it’s about:
 | 48  | MovieQuotes API           | Retrieve movie quotes from Movie Quote API                                                      | ✅ Completed   |
 | 49  | CocktailIngredients API   | Fetch cocktail ingredients from Cocktail API                                                    | ✅ Completed   |
 | 50  | JobListing API            | Get job listings from Adzuna API                                                                | ✅ Completed   |
-| 51  | ...                       | ...                                                                                             | ⏳ In Progress |
+| 51  | RetrieveRpository API     | Retrieve trending repositories from GitHub API                                                  | ✅ Completed   |
+| 52  | ...                       | ...                                                                                             | ⏳ In Progress |
 
 ---
 
